@@ -1,2 +1,6 @@
 Duncan BRIQUET
 Raphaël CASSE
+
+VII - Le fichier est invisible dans la branche master car il a été commit dans une autre branche.
+
+ 
